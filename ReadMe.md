@@ -11,7 +11,7 @@
 
 #### Step 01
 
-In the package `partA` look at the file `FlipCoin`.
+In the package `labs.partA` look at the file `FlipCoin`.
 
 #### Step 02
 
@@ -26,7 +26,7 @@ In the package `partA` look at the file `FlipCoin`.
 
 #### Step 01
 
-In the package `partA` look at the file `RockPaperScissor` 
+In the package `labs.partA` look at the file `RockPaperScissor` 
 
 #### Step 02
 
@@ -41,28 +41,74 @@ In the package `partA` look at the file `RockPaperScissor`
     * Record the result and repeat many times
 
 ### Part B
-### Exercise 01
 
-* A person’s body mass index (BMI) is computed
-like this: BMI = weight/height^2 X 703
+### Exercise 01
 
 #### Step 01
 
-In the package `partB` look at the file `ComputeBMI`.
+In the package `labs.partB` look at the file `MathSquareRootExample` and write comments for each line of code. When complete review with instructor.
 
 #### Step 02
 
- * Write a program that computes the BMI and rounds off the BMI
- * Use the methods of the Math class and display
-   the output as:
-   * Enter the weight in pounds: 132.5
-   * Enter the height in inches: 62.5
-   * Your Body Mass Index is 24
+In the package `labs.partB` complete the `Radius` per the following:
+
+    Ask a user to enter the radius, save this input accordingly as the radius
+    Create a variable called area that calculates the area using the user's input for the radius (HINT: use a formula)
+    Print to the console "The area of circle is: " and the variable area
+
+Your program is working correctly, if when run, the following is the output:
+```
+Enter the radius: 25
+The area of circle is: 1963.25
+```
+
+> Use MathSquareRootExample for reference.
+
+### Exercise 02
+
+#### Step 01
+
+In the package `labs.partB.ex02` look at the file `MinimumExample` and write comments for each line of code. When complete review with instructor.
+
+#### Step 02
+
+In the package `labs.partB.ex02` complete the `Maximum` per the following:
+
+    Utilize the built in math function to find the maximum between two numbers
+    Print out this result
+
+Your program is working correctly, if when run, the following is the output:
+```
+Maximum number of 12 and 20 is: 20
+```
+
+> Use MinimumExample for reference.
+
+### Exercise 03
+
+#### Step 01
+
+In the package `labs.partB.ex02` look at the file `MinimumExample` and write comments for each line of code. When complete review with instructor.
+
+#### Step 02
+
+In the package `labs.partB.ex03` complete the `AbsoluteValue` per the following:
+
+    Sum the pre defined variables inside of the class
+    Utilizing the built in absolute value method, print out the absolute value of the sum
+
+Your program is working correctly, if when run, the following is the output:
+```
+225
+```
+
+> Use MinimumExample for reference.
+
 
 
 ### Part C
 
-In this part of the lab you will complete `KeypadConversion`, the objective of your program should be to ask a user for a message and display that message as a series of key presses on a telephone keypad, seen here (https://en.wikipedia.org/wiki/Telephone_keypad)
+In the package `labs.partC` complete `KeypadConversion`, the objective of your program should be to ask a user for a message and display that message as a series of key presses on a telephone keypad, seen here (https://en.wikipedia.org/wiki/Telephone_keypad)
 
 Ex1: Input = b then output = 22
 
