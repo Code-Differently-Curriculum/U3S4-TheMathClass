@@ -1,7 +1,7 @@
 # U3S4
 
 * Part A - Foundations 4.4
-* Part B - Foundations 4.5
+* Part B - Foundations Practice
 * Part C - Challenge
 
 
