@@ -40,7 +40,7 @@ In the package `labs.partA` look at the file `RockPaperScissor`
     * if number=2: "scissors"
     * Record the result and repeat many times
 
-### Part B
+## Part B
 
 ### Exercise 01
 
